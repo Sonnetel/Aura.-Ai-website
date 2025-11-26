@@ -1,0 +1,20 @@
+/aura
+├── package.json
+├── next.config.js
+├── tailwind.config.js
+├── postcss.config.js
+├── .env.example
+├── pages
+│   ├── index.js
+│   └── api
+│       └── query.js
+├── components
+│   ├── SearchBox.js
+│   ├── ResultCard.js
+│   └── Header.js
+├── lib
+│   ├── agents.js
+│   └── openai.js
+├── public
+│   └── logo.svg
+└── README.md
