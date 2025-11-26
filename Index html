@@ -1,0 +1,30 @@
+# Aura AI Website
+AI-Powered Personal Assistant - Scalable productivity app
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aura AI</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Aura AI</h1>
+        <p>Your intelligent companion</p>
+    </header>
+    <main>
+        <section id="features">
+            <h2>Features</h2>
+            <ul>
+                <li>AI-powered tasks</li>
+                <li>Smart scheduling</li>
+                <li>Secure data</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Aura AI</p>
+    </footer>
+</body>
+</html>
